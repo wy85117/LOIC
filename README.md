@@ -3,6 +3,13 @@
 Low Orbit Ion Cannon - An open source network stress tool, written in C#.
 Based on Praetox's LOIC project at https://sourceforge.net/projects/loic/
 
+##INSTALL
+依赖包
+1，apt-get install mono-gmcs mono-mcs monodevelop liblog4netcil-dev
+2，下载LOIC，unzip命令解压
+3，导航到文件夹，编译:  mdtool build
+4，编译好的应用程序位于/<path>bin/Debug/LOIC.exe
+
 ## DISCLAIMER
 
 This tool is released for educational purposes only, with the intent of helping server owners develop a "Hacker Defense" attitude. This tool comes without any warranty at all.
